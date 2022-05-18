@@ -1,0 +1,1 @@
+html <Project> <PropertyGroup> <FrameworkPathOverride>/lib/mono/4.7.1-api</FrameworkPathOverride> </PropertyGroup> </Project> 
